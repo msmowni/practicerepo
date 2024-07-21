@@ -5,8 +5,12 @@ z=x+y
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #this is my first change in master file
 
+=======
+# this is my first change in branch1"
+>>>>>>> 6e18333 ( this is my first change in branch 1)
 =======
 # this is my first change in branch1"
 >>>>>>> 6e18333 ( this is my first change in branch 1)
